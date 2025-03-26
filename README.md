@@ -1,6 +1,6 @@
 ## Hey there 👋 Welcome to my profile!
 
-<!--
+
 Software engineer and computer science graduate. 
 
 ##Let's Connect 
@@ -8,4 +8,4 @@ Software engineer and computer science graduate.
 
 
 
--->
+

@@ -1,6 +1,7 @@
 ## Hey there! 👋
 
-I’m a software engineer who thrives on turning code into magic—whether it’s crafting sleek mobile experiences or sculpting data flows that power smart systems. I play with Flutter, Python, and Neo4j to build things that move fast and think deep.
+I'm a software engineer with experience in mobile & AI development.🤓
+Passionate about leveraging cutting-edge technologies to create meaningful products that enhance user experiences .🥰
 
 ### Let’s Connect
 - [LinkedIn](#)  

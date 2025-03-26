@@ -3,7 +3,7 @@
 
 Software engineer and computer science graduate. 
 
-##Let's Connect 
+## Let's Connect 
 [LinkedIn](#) | [Email](mailto:rojin.darafarin@gmail.com) 
 
 
